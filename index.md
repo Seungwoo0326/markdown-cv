@@ -1,91 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Seungu Han's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Seungu Han
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hansw0326@snu.ac.kr">hansw0326@snu.ac.kr</a>
+| <a href="https://github.com/Seungwoo0326">Seungwoo0326 @ GitHub</a>  
+  | <a href="https://scholar.google.com/citations?authuser=1&user=GTu0FqkAAAAJ">Google Scholar</a>
+    |   <a href="https://twitter.com/Seungu_Han">twitter</a>
 </div>
 
+## Education / Work
 
-## Currently
+`2020.08 ~ Now`
+__MINDs Lab, Inc.__
+- AI Scientist (Audio)
+- TTS / Speech Separation / Diarization / Audio Super-resolution 
+- Diffusion models
+- GNN / Time Series Forecasting
 
-Standing on the shoulders of giants
+`2018.03 ~ 2020.06, 2022.09~ Now`
+__Seoul National University__
+- College of Liberal Studies
+- Mechanical Engineering / Industrial Enginnering
 
-### Specialized in
+`2015 ~ 2018`
+__Gyeonggi Science High School for the gifted__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Research
+- [NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates](https://arxiv.org/abs/2206.08545) \
+Interspeech 2022, <b>Seungu Han<sup>*</sup></b>, and <b>Junhyeok Lee</b>\
+[![arXiv](https://img.shields.io/badge/arXiv-2206.08545-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2206.08545) [![GitHub Repo stars](https://img.shields.io/github/stars/mindslab-ai/nuwave2?color=yellow&label=NU-Wave2&logo=github&style=flat-square)](https://github.com/mindslab-ai/nuwave2) [![githubio](https://img.shields.io/badge/GitHub.io-Demo-blue?logo=Github&style=flat-square)](https://mindslab-ai.github.io/nuwave2/)
+- [NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling](https://arxiv.org/abs/2104.02321) \
+Interspeech 2021, <b>Junhyeok Lee<sup>*</sup></b>, and <b>Seungu Han</b>\
+[![arXiv](https://img.shields.io/badge/arXiv-2104.02321-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2104.02321) [![GitHub Repo stars](https://img.shields.io/github/stars/mindslab-ai/nuwave?color=yellow&label=NU-Wave&logo=github&style=flat-square)](https://github.com/mindslab-ai/nuwave) [![githubio](https://img.shields.io/badge/GitHub.io-Demo-blue?logo=Github&style=flat-square)](https://mindslab-ai.github.io/nuwave/)
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Open Source Contribution
+- **[NU-Wave 2](https://arxiv.org/abs/2206.08545)**, Official Pytorch+[Lightning](https://github.com/PyTorchLightning/pytorch-lightning) Implementation.
+- **[NU-Wave](https://arxiv.org/abs/2104.02321)**, Official Pytorch+[Lightning](https://github.com/PyTorchLightning/pytorch-lightning) Implementation.
+- **[WaveGrad2](https://arxiv.org/abs/2106.09660)**, Unofficial PyTorch+[Lightning](https://github.com/PyTorchLightning/pytorch-lightning) Implementation.\
+[![arXiv](https://img.shields.io/badge/arXiv-2106.09660-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2106.09660) [![GitHub Repo stars](https://img.shields.io/github/stars/mindslab-ai/wavegrad2?color=yellow&label=WaveGrad2&logo=github&style=flat-square)](https://github.com/mindslab-ai/wavegrad2) [![githubio](https://img.shields.io/badge/GitHub.io-Demo-blue?logo=Github&style=flat-square)](https://mindslab-ai.github.io/wavegrad2/) [![Colab](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=grey&color=yellow&logoColor=white&label=%20&style=flat-square)](https://colab.research.google.com/drive/1AK3AI3lS_rXacTIYHpf0mYV4NdU56Hn6?usp=sharing)
+    - Release the code while official implementation is unavailable.
