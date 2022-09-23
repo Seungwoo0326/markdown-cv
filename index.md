@@ -21,15 +21,16 @@ title: Seungu Han's CV
 __MINDs Lab, Inc.__
 - AI Scientist (Audio)
 - Focused on TTS & Speech Separation projects
-- Also experienced Speech Enhancement / Voice Activity Detection / \
-Audio Super-resolution
+- Also experienced Speech Enhancement / Voice Activity Detection / Audio Super-resolution
 - Worked as a substitute of mandatory military service (2020.08 ~ 2022.07)
 
-`2018.03~2020.06`
+`2018.03~`
 __Seoul National University__
 
-`2022.09~Now`
+`2020.06,`
 - College of Liberal Studies
+
+`2022.09~Now`
 - Mechanical Engineering / Industrial Enginnering
 
 `2015~2018`
