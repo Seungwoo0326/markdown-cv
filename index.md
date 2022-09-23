@@ -18,21 +18,21 @@ title: Seungu Han's CV
 
 ## Education / Work
 `2020.08~Now`
- __MINDs Lab, Inc.__
+  __MINDs Lab, Inc.__
 - AI Scientist (Audio)
 - Focused on TTS & Speech Separation projects
 - Also experienced Speech Enhancement / Voice Activity Detection / Audio Super-resolution
 - Worked as a substitute of mandatory military service (2020.08 ~ 2022.07)
 
 `2018.03~2020.06,`
- __Seoul National University__
-- College of Liberal Studies
+  __Seoul National University__
 
 `2022.09~Now`
+- College of Liberal Studies
 - Mechanical Engineering / Industrial Enginnering
 
 `2015~2018`
- __Gyeonggi Science High School for the gifted__
+  __Gyeonggi Science High School for the gifted__
 
 ## Research
 - [NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates](https://arxiv.org/abs/2206.08545) \
