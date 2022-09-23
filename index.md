@@ -28,10 +28,9 @@ __MINDs Lab, Inc.__
 __Seoul National University__
 
 `2020.06,`
-- College of Liberal Studies
+- College of Liberal Studies, Mechanical Engineering / Industrial Enginnering
 
 `2022.09~Now`
-- Mechanical Engineering / Industrial Enginnering
 
 `2015~2018`
 __Gyeonggi Science High School for the gifted__
