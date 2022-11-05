@@ -17,7 +17,7 @@ title: Seungu Han's CV
 - Diffusion Models
 
 ## Education / Work
-`2020.08 ~ Now`
+`2020.08 ~ 2022.10`
 __MINDs Lab, Inc.__
 - AI Scientist (Audio)
 - Focused on TTS & Speech Separation projects
